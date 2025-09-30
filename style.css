@@ -3,12 +3,11 @@ body {
   font-family: Arial, sans-serif;
   color: #F4E9D7
 }
-kartu-profil {
-width: 300px;
-margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan
-kiri/kanan
-padding: 20px;
-background-color:
-white;
-border-radius: 15px; /* Membuat sudut menjadi melengkung
-box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan *
+.kartu-profil {
+  width: 300px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: white;
+  border-radius: 15px; 
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
